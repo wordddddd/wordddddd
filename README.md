@@ -1,16 +1,20 @@
-## Hi there 👋
+# Brad Bond
 
-<!--
-**wordddddd/wordddddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build custom AI agents that handle the repetitive work small businesses don't have time for.
 
-Here are some ideas to get you started:
+Based in Bridgewater, Nova Scotia. I run [bradbond.org](https://bradbond.org), where I design, build, and deploy AI agents for small businesses and teams across Atlantic Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I build
+
+- Agents for customer support, lead qualification, research, content, and personal assistance
+- Self-hosted on dedicated infrastructure, not rented out of a generic SaaS dashboard
+- Connected to the tools a business already uses, through MCP (Model Context Protocol)
+- Live demo: **Cipher**, the sales agent running on my site
+
+### Stack
+
+Claude API · MCP · OpenClaw · DigitalOcean · Next.js · TypeScript · Python
+
+### Get in touch
+
+Got repetitive work eating your day? [bradbond.org](https://bradbond.org) · brad@bradbond.org
